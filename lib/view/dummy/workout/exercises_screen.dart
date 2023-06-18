@@ -211,7 +211,7 @@ class _ExerciseDisplayScreenState extends State<ExerciseDisplayScreen> {
                                               child: Text(
                                                   cubit.state.exercise[index].sets != ""
                                                       ? "${cubit.state.exercise[index].sets} sets"
-                                                      : "10 sets",
+                                                      : "",
                                                   maxLines: 1,
                                                   overflow: TextOverflow.ellipsis,
                                                   style: AppTextStyle
