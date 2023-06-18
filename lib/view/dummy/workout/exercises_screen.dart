@@ -204,16 +204,14 @@ class _ExerciseDisplayScreenState extends State<ExerciseDisplayScreen> {
                                             ),
                                             Padding(
                                               padding: const EdgeInsets.only(
-                                                  left: 10,
+                                                  left: 12,
 
                                                   top: 8,
                                                   bottom: 4),
                                               child: Text(
-                                                  cubit.state.exercise[index]
-                                                              .sets !=
-                                                          ""
+                                                  cubit.state.exercise[index].sets != ""
                                                       ? "${cubit.state.exercise[index].sets} sets"
-                                                      : "",
+                                                      : "10 sets",
                                                   maxLines: 1,
                                                   overflow: TextOverflow.ellipsis,
                                                   style: AppTextStyle
