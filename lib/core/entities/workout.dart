@@ -1,5 +1,6 @@
-import 'exercise.dart';
 import 'package:hive/hive.dart';
+
+import 'exercise.dart';
 
 part 'workout.g.dart';
 
