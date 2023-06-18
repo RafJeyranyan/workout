@@ -1,4 +1,4 @@
-package joy.victory.mobile
+package baji.live.ball
 
 import io.flutter.embedding.android.FlutterActivity
 

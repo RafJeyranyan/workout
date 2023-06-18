@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "189923547119",
-    "project_id": "mcwrafdz",
-    "storage_bucket": "mcwrafdz.appspot.com"
+    "project_number": "567837362668",
+    "project_id": "bajvlnab",
+    "storage_bucket": "bajvlnab.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:189923547119:android:e956345d07a80a57ae881a",
+        "mobilesdk_app_id": "1:567837362668:android:be0bc8a4b5da362704d8c9",
         "android_client_info": {
-          "package_name": "joy.victory.mobile"
+          "package_name": "baji.live.ball"
         }
       },
       "oauth_client": [
         {
-          "client_id": "189923547119-kdde3n66songbpdkbshc8dco5bkg4vet.apps.googleusercontent.com",
+          "client_id": "567837362668-n9oqv0fb2oiiggn6ejbgnnc88s8jrf2o.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDLxoxaxCzT0i8DCtr3BV6mBrbl7t7I_rw"
+          "current_key": "AIzaSyCj3skDoa9671U2i51DmcJc_k8lqkWh50g"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "189923547119-kdde3n66songbpdkbshc8dco5bkg4vet.apps.googleusercontent.com",
+              "client_id": "567837362668-n9oqv0fb2oiiggn6ejbgnnc88s8jrf2o.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
